@@ -1,4 +1,4 @@
-# LASearchAppUsingPexelsAPI
+# Sök efter bilder via Pexels
 
 https://whimsical-gumdrop-7357ae.netlify.app/
 
